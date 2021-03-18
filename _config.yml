@@ -1,2 +1,10 @@
 title: Javanile PPA
+
 remote_theme: javanile/package-manager
+
+plugins:
+  - jekyll-extract-element
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-archives
