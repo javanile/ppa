@@ -1,3 +1,4 @@
 title: Javanile PPA (alpha)
 
-remote_theme: javanile/package-manager
+#remote_theme: javanile/package-manager
+remote_theme: benbalter/retlab
