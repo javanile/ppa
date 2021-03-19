@@ -3,7 +3,10 @@ title: Javanile PPA (alpha)
 plugins:
   - jekyll-remote-theme
 
+#remote_theme: javanile/package-manager@main
 
 remote_theme: javanile/package-manager@main
 #remote_theme: benbalter/retlab
+#remote_theme: DigitalMindCH/gridster-jekyll-theme
+
 #remote_theme: matthiaslischka/jekyll-uno
